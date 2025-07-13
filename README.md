@@ -4,7 +4,7 @@
 This project involves designing and implementing a deep learning model to detect cyber threats in network traffic logs using the BETH dataset. The model is trained to identify anomalies that could indicate potential cyber attacks, contributing to enhanced cybersecurity measures.
 
 **Project Overview**
-</hr>
+---
 The BETH dataset includes various features extracted from network logs, with a target label sus_label indicating whether an event is malicious (1) or benign (0).
 
 **Features**
