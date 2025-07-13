@@ -27,11 +27,12 @@ The neural network model is a simple feed-forward neural network built using PyT
 - Output Layer: 1 neuron with Sigmoid activation for binary classification.
 
 </hr>
-**Training**
+Training
 </br>
 </hr>
 The model was trained using Binary Cross Entropy loss (nn.BCELoss) and the Adam optimizer. The training loop ran for 20 epochs, with the goal of achieving a validation accuracy of at least 60%.
 
 **Results**
 </hr>
+
 Best Validation Accuracy: val_accuracy%
